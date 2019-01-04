@@ -1,15 +1,21 @@
 .container {
-  padding-top: 2em;
-  padding-bottom: 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
-
-}
-@media all and (max-device-width: 480px)
-{
 
 .logo {
-  padding-top: 2em;
-  margin-left: 2em;
+  padding-top: 1em;
+  display: flex;
+  justify-content: center;
+
+}
+
+.logogwcs {
+  margin-left: 2%;
+}
+
+.logoin {
+  margin-left: 2%;
 }
 
 .phraseprez {

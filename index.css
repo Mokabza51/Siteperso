@@ -7,7 +7,6 @@
   padding-top: 1em;
   display: flex;
   justify-content: center;
-
 }
 
 .logogwcs {
@@ -20,4 +19,9 @@
 
 .phraseprez {
   margin-top: 2em;
+}
+
+body {
+  background-color: #f4f4f4;
+
 }

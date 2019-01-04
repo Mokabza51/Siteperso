@@ -1,0 +1,17 @@
+.container {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+}
+@media all and (max-device-width: 480px)
+{
+
+.logo {
+  padding-top: 2em;
+  margin-left: 2em;
+}
+
+.phraseprez {
+  margin-top: 2em;
+}
